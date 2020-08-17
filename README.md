@@ -1,2 +1,2 @@
-# Matrix-Completed
-Matrix completed project - Xcode 12 swift 5
+# Matrix Completed Project using Xcode 12 and Swift 5
+![App Image](/Nard.png)
